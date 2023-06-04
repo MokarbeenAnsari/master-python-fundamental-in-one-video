@@ -2,6 +2,8 @@
 
 This repository contains the Python code files used in the "Master Python Fundamentals in ONE Epic Video" on my YouTube channel. Each Python file corresponds to a particular section in the video.
 
+You can watch the complete video tutorial here: [Master Python Fundamentals in ONE Epic Video](https://youtu.be/yCBRIXUXqFk)
+
 ## Contents
 
 Below are the sections and corresponding lecture files for the complete Python video tutorial:
@@ -75,8 +77,4 @@ You can install Python by following instructions from the official website: [htt
 
 ## Feedback and Contributions
 
-I appreciate any feedback, questions, or contributions. Please feel free to submit a pull request or open an issue if you have any problems or requests.
-
-## License
-
-This project is licensed under the terms of the MIT license. See the [LICENSE](LICENSE) file for
+I appreciate any feedback, questions, or contributions. Please feel free to submit a pull request or open an issue
