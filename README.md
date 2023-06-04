@@ -70,4 +70,4 @@ I appreciate any feedback, questions, or contributions. Please feel free to subm
 
 ## License
 
-This project is licensed under the terms of the MIT license.
+This project is licensed under the terms of the MIT license. See the [LICENSE](LICENSE) file for details.
