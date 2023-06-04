@@ -47,13 +47,13 @@ Below are the sections and corresponding lecture files for the [complete Python 
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your_username/python_youtube_series.git
+    git clone https://github.com/MokarbeenAnsari/master-python-fundamental-in-one-video.git
     ```
 
 2. Change to the directory where you cloned the repo:
 
     ```bash
-    cd python_youtube_series
+    cd master-python-fundamental-in-one-video
     ```
 
 3. Open and run the Python files corresponding to each lecture using your Python environment (VS Code is recommended).
