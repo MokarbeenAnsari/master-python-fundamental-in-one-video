@@ -4,43 +4,52 @@ This repository contains the Python code files used in the "Master Python Fundam
 
 ## Contents
 
-Below are the sections and corresponding lecture files for the [complete Python video tutorial](https://youtu.be/amCdZ2ItxQk):
+Below are the sections and corresponding lecture files for the complete Python video tutorial:
 
 ### Section 1: Introduction
-- Lecture 1.1: Introduction to Python
-  - [intro_to_python.py](link_to_file1)
-- Lecture 1.2: Setting up Python Environment
-  - [setting_up_environment.py](link_to_file2)
+- Lecture 1.1: What is Python and environment setup?
+- Lecture 1.2: How to print on console?
+- Lecture 1.3: How to comment in a Python file?
 
 ### Section 2: Data Types
-- Lecture 2.1: Python Basic Data Types
-  - [basic_data_types.py](link_to_file3)
-- Lecture 2.2: Python Advanced Data Types
-  - [advanced_data_types.py](link_to_file4)
+- Lecture 2.1: Data types in Python.
+- Lecture 2.2: Variables in Python.
+- Lecture 2.3: Type Conversion in Python.
+- Lecture 2.4: How to take input from the console in Python?
 
 ### Section 3: Operators
-- Lecture 3.1: Arithmetic Operators
-  - [arithmetic_operators.py](link_to_file5)
-- Lecture 3.2: Logical Operators
-  - [logical_operators.py](link_to_file6)
+- Lecture 3.1: What is operator in Python?
+- Lecture 3.2: Arithmetic operator in Python
+- Lecture 3.3: Arithmetic operator precedence
+- Lecture 3.4: Comparison operator in Python
+- Lecture 3.5: Logical operator in Python
 
 ### Section 4: Conditionals
-- Lecture 4.1: If-Else Statements
-  - [if_else.py](link_to_file7)
-- Lecture 4.2: Switch Case
-  - [switch_case.py](link_to_file8)
+- Lecture 4.1: Conditional Statements in Python
+- Lecture 4.2: if statement in Python
+- Lecture 4.3: if else statement in Python
+- Lecture 4.4: if elif else statement in Python
+- Lecture 4.5: Nested if condition in Python
 
 ### Section 5: Functions
-- Lecture 5.1: Function Definitions
-  - [function_definitions.py](link_to_file9)
-- Lecture 5.2: Lambda Functions
-  - [lambda_functions.py](link_to_file10)
+- Lecture 5.1: Introduction to Function
+- Lecture 5.2: Function calling in Python
+- Lecture 5.3: How to create a function in Python?
+- Lecture 5.4: Passing parameters to the Function
+- Lecture 5.5: Return statement in Function
+- Lecture 5.6: Function scope and lifetime in Python
+- Lecture 5.7: Lambda Function in Python
 
 ### Section 6: Loops
-- Lecture 6.1: For Loop
-  - [for_loop.py](link_to_file11)
-- Lecture 6.2: While Loop
-  - [while_loop.py](link_to_file12)
+- Lecture 6.1: Introduction to loops in Python
+- Lecture 6.2: How to use List in Python?
+- Lecture 6.3: for Loop in Python
+- Lecture 6.4: for Loop through list
+- Lecture 6.5: Nested Loop in Python
+- Lecture 6.6: break Keyword in Python
+- Lecture 6.7: continue Keyword in Python
+- Lecture 6.8: pass Keyword in Python
+- Lecture 6.9: while Loop in Python
 
 ## How to Use this Repository
 
@@ -70,4 +79,4 @@ I appreciate any feedback, questions, or contributions. Please feel free to subm
 
 ## License
 
-This project is licensed under the terms of the MIT license. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the terms of the MIT license. See the [LICENSE](LICENSE) file for
