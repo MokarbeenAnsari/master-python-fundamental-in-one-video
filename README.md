@@ -4,7 +4,7 @@ This repository contains the Python code files used in the "Master Python Fundam
 
 ## Contents
 
-Below are the sections and corresponding lecture files for the [complete Python video tutorial](https://youtu.be/link_to_whole_video):
+Below are the sections and corresponding lecture files for the [complete Python video tutorial](https://youtu.be/yCBRIXUXqFk):
 
 ### Section 1: Introduction
 - Lecture 1.1: Introduction to Python
