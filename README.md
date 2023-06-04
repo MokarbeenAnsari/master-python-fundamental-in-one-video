@@ -2,7 +2,7 @@
 
 This repository contains the Python code files used in the "Master Python Fundamentals in ONE Epic Video" on my YouTube channel. Each Python file corresponds to a particular section in the video.
 
-You can watch the complete video tutorial here: [Master Python Fundamentals in ONE Epic Video](https://youtu.be/yCBRIXUXqFk)
+You can watch the complete video tutorial here: [Master Python Fundamentals in ONE Epic Video](https://youtu.be/amCdZ2ItxQk)
 
 ## Contents
 
